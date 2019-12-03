@@ -1,2 +1,2 @@
 # zchantalo.github.io
-Stating Web Hosting with Github
+Static Web Hosting with Github
